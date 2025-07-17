@@ -1,13 +1,8 @@
+
+
 <div align="center">
 
-# 🚀 **ALEXIS GUILLEN**
-
-## <sub>_PORTFOLIO PERSONAL_</sub>
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Lo+mejor+de+ambos+mundos;Desarrollo+Web+%26+Arte+Visual;Full+Stack+Developer;UI%2FUX+Designer;Creative+Technologist" alt="Typing SVG" />
-</h3>
-
+# 🚀 **Pedro Alexis Guillen Lar**
 <div style="margin: 20px 0;">
 
 <a href="https://www.linkedin.com/in/alexiisart/" target="_blank">
@@ -24,10 +19,6 @@
 </a>
 
 </div>
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
----
 
 </div>
 
@@ -450,10 +441,13 @@ mindmap
 
 ---
 
+
 ### ⚡ **Gracias por visitar mi portfolio**
 
 _Combinando creatividad y tecnología para crear experiencias excepcionales_
 
-**© 2024 Alexis Guillen · Desarrollador Full Stack & Artista Visual**
+**2024 Alexis Guillen · Desarrollador Full Stack & Artista Visual**
 
 </div>
+
+
