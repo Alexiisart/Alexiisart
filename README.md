@@ -89,21 +89,21 @@
 <tr>
 <td width="50%">
 
-### 💰 **Renta Vitalicia**
+### 💰 **Portal Intermediarios Seguros Reservas**
 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)]()
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)]()
 
-**💼 Descripción**: Plataforma empresarial para cálculo de seguros
+**💼 Descripción**: Plataforma empresarial para intermediarios de seguros
 
 **✨ Características**:
 
-- 📊 Cálculos actuariales
+- 📊 Manejo de grandes cantidades de datos
 - 📈 Reportes dinámicos
 - 🔐 Sistema seguro
 - 💾 Gestión de pólizas
 
-**🏢 Proyecto Interno - Seguros Reservas**
+**[Ver en App en vivo](https://app.segurosreservas.com/Intermediarios/#/iniciar-sesion)**
 
 </td>
 <td width="50%">
@@ -146,7 +146,7 @@
 - ♿ Accesibilidad integrada
 - 📖 Ejemplos interactivos
 
-**🔗 [Ver en App en vivo](https://ui.openiis.org/home)**
+**🔗 [Ver en App en vivo](https://ui.openiis.org)**
 
 </td>
 </tr>
