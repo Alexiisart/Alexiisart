@@ -62,7 +62,7 @@
 - 📱 UX optimizada
 - 🌙 Modo oscuro/claro
 
-**🔗 [Ver Demo](https://alexiisportfolio.netlify.app/)**
+**🔗 [Ver](https://alexiisportfolio.netlify.app/)**
 
 </td>
 <td width="50%">
