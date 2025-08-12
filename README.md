@@ -13,14 +13,12 @@
 
 ### ⚙️ **Backend Development**
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### 🗄️ **Database & Cloud**
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgress SQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-red?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
@@ -43,45 +41,27 @@
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **PROYECTOS DESTACADOS**
-
 <table>
 <tr>
-<td width="50%">
+<td colspan="2">
 
-### 🌟 **Mi Portafolio Personal**
+### 🎨 **OpenIIS UI Library**
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
 
-**🚀 Descripción**: Portfolio personal con diseño moderno y animaciones suaves
+**🧩 Descripción**: Biblioteca completa de componentes UI reutilizables para Angular
 
 **✨ Características**:
 
-- ⚡ Diseño responsive
-- 🎨 Animaciones CSS avanzadas
-- 📱 UX optimizada
-- 🌙 Modo oscuro/claro
+- 🧱 +20 componentes modulares
+- 📚 Documentación completa con README
+- 🎨 Temas personalizables
+- ♿ Accesibilidad integrada
+- 📖 Ejemplos interactivos
 
-**🔗 [Ver](https://alexiisportfolio.netlify.app/)**
-
-</td>
-<td width="50%">
-
-### 🏛️ **Valida Firma - INDOTEL**
-
-[![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)]()
-[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)]()
-
-**🎯 Descripción**: Manual de identidad visual para proyecto gubernamental
-
-**✨ Características**:
-
-- 📋 Manual completo de brand
-- 🎨 Identidad corporativa
-- 📐 Guías de uso
-- 🏆 Proyecto oficial INDOTEL
-
-**🔗 [Ver en Behance](https://www.behance.net/gallery/204811741/Validafirma-Branding)**
+**🔗 [Ver en App en vivo](https://ui.openiis.org)**
 
 </td>
 </tr>
@@ -123,30 +103,6 @@
 - 🎨 UI intuitiva
 
 **🔗 [Ver en App en vivo](https://tinyurl.com/ypnmkfq5)**
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-### 🎨 **OpenIIS UI Library**
-
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
-
-**🧩 Descripción**: Biblioteca completa de componentes UI reutilizables para Angular
-
-**✨ Características**:
-
-- 🧱 +20 componentes modulares
-- 📚 Documentación completa con README
-- 🎨 Temas personalizables
-- ♿ Accesibilidad integrada
-- 📖 Ejemplos interactivos
-
-**🔗 [Ver en App en vivo](https://ui.openiis.org)**
 
 </td>
 </tr>
