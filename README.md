@@ -28,6 +28,11 @@
 [![Adobe Photoshop](https://img.shields.io/badge/Photoshop-444?style=flat&logo=adobe-photoshop)]()
 [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-444?style=flat&logo=adobe-illustrator)]()
 
+### Gestión & Metodologías
+[![Agile](https://img.shields.io/badge/Agile-444?style=flat&logo=scrumalliance)]()
+[![Scrum](https://img.shields.io/badge/Scrum-444?style=flat&logo=scrum)]()
+[![Jira](https://img.shields.io/badge/Jira-444?style=flat&logo=jira)]()
+
 ### Herramientas & DevOps
 [![Git](https://img.shields.io/badge/Git-444?style=flat&logo=git)]()
 [![GitHub](https://img.shields.io/badge/GitHub-444?style=flat&logo=github)]()
