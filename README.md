@@ -89,7 +89,7 @@
 
 ---
 
-### ** Checkliist App**
+### Checkliist App
 > Herramienta colaborativa de gestión de tareas pensada para trabajar incluso **sin conexión**. Mi foco fue la experiencia minimalista y de alto rendimiento, usando **Local Storage** para acelerar tiempos y evitar llamadas innecesarias. Desarrollé componentes dinámicos, manejo local de datos y un flujo que permite crear, modificar y seguir tareas de forma rápida.
 > [🌐 Ver aplicación](https://tinyurl.com/ypnmkfq5)
 
